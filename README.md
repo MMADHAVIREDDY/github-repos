@@ -1,3 +1,2 @@
-# github-repos
-hi
-how are you
+printing
+variables
